@@ -1,2 +1,2 @@
 # MarisCollege
-Angular 6 / RxJs / .Net Core 2.1 Practical Web Site
+Angular 6 / Angular Material / RxJs / .Net Core 2.1 Practical Web Site
