@@ -8,7 +8,7 @@ Technologies :
 * NodeJS
 
 
-web site : ![Maris College](http://mariscollege.satuindonesia.com.au/registration)
+web site : http://mariscollege.satuindonesia.com.au
 
 
 
